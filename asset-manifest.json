@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/berkeley19.github.io/static/css/main.7e429e34.chunk.css",
-    "main.js": "/berkeley19.github.io/static/js/main.2eef9fa4.chunk.js",
-    "main.js.map": "/berkeley19.github.io/static/js/main.2eef9fa4.chunk.js.map",
+    "main.js": "/berkeley19.github.io/static/js/main.f088834d.chunk.js",
+    "main.js.map": "/berkeley19.github.io/static/js/main.f088834d.chunk.js.map",
     "runtime-main.js": "/berkeley19.github.io/static/js/runtime-main.bc554358.js",
     "runtime-main.js.map": "/berkeley19.github.io/static/js/runtime-main.bc554358.js.map",
     "static/css/2.7eb84643.chunk.css": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css",
-    "static/js/2.c52ab568.chunk.js": "/berkeley19.github.io/static/js/2.c52ab568.chunk.js",
-    "static/js/2.c52ab568.chunk.js.map": "/berkeley19.github.io/static/js/2.c52ab568.chunk.js.map",
+    "static/js/2.e6c2b8b1.chunk.js": "/berkeley19.github.io/static/js/2.e6c2b8b1.chunk.js",
+    "static/js/2.e6c2b8b1.chunk.js.map": "/berkeley19.github.io/static/js/2.e6c2b8b1.chunk.js.map",
     "index.html": "/berkeley19.github.io/index.html",
-    "precache-manifest.29418ae75f078e67bcb4a626ad51c89c.js": "/berkeley19.github.io/precache-manifest.29418ae75f078e67bcb4a626ad51c89c.js",
+    "precache-manifest.c7aed21ed6690734a7a6e10d5b251581.js": "/berkeley19.github.io/precache-manifest.c7aed21ed6690734a7a6e10d5b251581.js",
     "service-worker.js": "/berkeley19.github.io/service-worker.js",
     "static/css/2.7eb84643.chunk.css.map": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css.map",
     "static/css/main.7e429e34.chunk.css.map": "/berkeley19.github.io/static/css/main.7e429e34.chunk.css.map",
-    "static/js/2.c52ab568.chunk.js.LICENSE.txt": "/berkeley19.github.io/static/js/2.c52ab568.chunk.js.LICENSE.txt",
+    "static/js/2.e6c2b8b1.chunk.js.LICENSE.txt": "/berkeley19.github.io/static/js/2.e6c2b8b1.chunk.js.LICENSE.txt",
     "static/media/earth.jpg": "/berkeley19.github.io/static/media/earth.67af05e1.jpg",
     "static/media/f0.jpg": "/berkeley19.github.io/static/media/f0.02335429.jpg",
     "static/media/f1.jpg": "/berkeley19.github.io/static/media/f1.bd0e6c79.jpg",
@@ -36,14 +36,13 @@
     "static/media/sf2.jpg": "/berkeley19.github.io/static/media/sf2.2d14c670.jpg",
     "static/media/sf3.jpg": "/berkeley19.github.io/static/media/sf3.5afeee7f.jpg",
     "static/media/sf5.jpg": "/berkeley19.github.io/static/media/sf5.92951215.jpg",
-    "static/media/sf6.jpg": "/berkeley19.github.io/static/media/sf6.d6765beb.jpg",
-    "static/media/topB.png": "/berkeley19.github.io/static/media/topB.15d287c3.png"
+    "static/media/sf6.jpg": "/berkeley19.github.io/static/media/sf6.d6765beb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc554358.js",
     "static/css/2.7eb84643.chunk.css",
-    "static/js/2.c52ab568.chunk.js",
+    "static/js/2.e6c2b8b1.chunk.js",
     "static/css/main.7e429e34.chunk.css",
-    "static/js/main.2eef9fa4.chunk.js"
+    "static/js/main.f088834d.chunk.js"
   ]
 }
