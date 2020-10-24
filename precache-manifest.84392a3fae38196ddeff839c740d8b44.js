@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db7cba67865555aae9476addae77d3ce",
+    "revision": "04a8c039a014c24ba5318f1986f85a3c",
     "url": "/berkeley19.github.io/index.html"
   },
   {
-    "revision": "3e6934f4d1d9a5e0af58",
+    "revision": "a159bb7d650a637911e5",
     "url": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css"
   },
   {
-    "revision": "f02cc6ff6d931c9c3e4d",
+    "revision": "4c538744b3bd7bc34129",
     "url": "/berkeley19.github.io/static/css/main.7e429e34.chunk.css"
   },
   {
-    "revision": "3e6934f4d1d9a5e0af58",
-    "url": "/berkeley19.github.io/static/js/2.e6c2b8b1.chunk.js"
+    "revision": "a159bb7d650a637911e5",
+    "url": "/berkeley19.github.io/static/js/2.c52ab568.chunk.js"
   },
   {
     "revision": "e9875d7c1187f4f0558e7fbac051f48d",
-    "url": "/berkeley19.github.io/static/js/2.e6c2b8b1.chunk.js.LICENSE.txt"
+    "url": "/berkeley19.github.io/static/js/2.c52ab568.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f02cc6ff6d931c9c3e4d",
-    "url": "/berkeley19.github.io/static/js/main.f088834d.chunk.js"
+    "revision": "4c538744b3bd7bc34129",
+    "url": "/berkeley19.github.io/static/js/main.3f39008c.chunk.js"
   },
   {
     "revision": "98c3353364e1af2c0a31",
     "url": "/berkeley19.github.io/static/js/runtime-main.bc554358.js"
   },
   {
+    "revision": "3695dfd885eee889848b9ed14104bcc1",
+    "url": "/berkeley19.github.io/static/media/aUnixPic.3695dfd8.jpg"
+  },
+  {
     "revision": "67af05e12311bac06327b43ca31e166b",
     "url": "/berkeley19.github.io/static/media/earth.67af05e1.jpg"
   },
   {
-    "revision": "023354295f46a254c994ea5178bb0074",
-    "url": "/berkeley19.github.io/static/media/f0.02335429.jpg"
+    "revision": "b14082e684354932355042b9350f2534",
+    "url": "/berkeley19.github.io/static/media/endSF.b14082e6.jpg"
   },
   {
     "revision": "bd0e6c79110a70f55fc2ebfef790cf57",
@@ -58,6 +62,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "75f6ef8008df19d237f85734b4779844",
     "url": "/berkeley19.github.io/static/media/f6.75f6ef80.jpg"
+  },
+  {
+    "revision": "13ec480bd9271381197ec5eaa9732148",
+    "url": "/berkeley19.github.io/static/media/fFinal.13ec480b.jpg"
+  },
+  {
+    "revision": "677084c2f6d3356e22606ec5469e1a0e",
+    "url": "/berkeley19.github.io/static/media/finalOutlinepp.677084c2.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -104,10 +116,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/media/ppCnew.f70a0e38.png"
   },
   {
-    "revision": "abd6dcdea3605a6e13bdf2c602ad6546",
-    "url": "/berkeley19.github.io/static/media/r0.abd6dcde.jpg"
-  },
-  {
     "revision": "e61d912726c9cbc299d60ad089b490b4",
     "url": "/berkeley19.github.io/static/media/r1.e61d9127.jpg"
   },
@@ -126,10 +134,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a55bd433c5ec5c32bbb46a7091fb5017",
     "url": "/berkeley19.github.io/static/media/sf1.a55bd433.jpg"
-  },
-  {
-    "revision": "42073e5499d716e2fda54b0ac3a65bb4",
-    "url": "/berkeley19.github.io/static/media/sf10.42073e54.jpg"
   },
   {
     "revision": "2d14c670c9d97b9af62ed0829e9d2202",
