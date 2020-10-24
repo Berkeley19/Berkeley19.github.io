@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/berkeley.github.io/static/css/main.1488e6d0.chunk.css",
-    "main.js": "/berkeley.github.io/static/js/main.7b2b29f4.chunk.js",
-    "main.js.map": "/berkeley.github.io/static/js/main.7b2b29f4.chunk.js.map",
-    "runtime-main.js": "/berkeley.github.io/static/js/runtime-main.246cd762.js",
-    "runtime-main.js.map": "/berkeley.github.io/static/js/runtime-main.246cd762.js.map",
+    "main.js": "/berkeley.github.io/static/js/main.066806ad.chunk.js",
+    "main.js.map": "/berkeley.github.io/static/js/main.066806ad.chunk.js.map",
+    "runtime-main.js": "/berkeley.github.io/static/js/runtime-main.60b62eec.js",
+    "runtime-main.js.map": "/berkeley.github.io/static/js/runtime-main.60b62eec.js.map",
     "static/css/2.7eb84643.chunk.css": "/berkeley.github.io/static/css/2.7eb84643.chunk.css",
-    "static/js/2.95927b62.chunk.js": "/berkeley.github.io/static/js/2.95927b62.chunk.js",
-    "static/js/2.95927b62.chunk.js.map": "/berkeley.github.io/static/js/2.95927b62.chunk.js.map",
+    "static/js/2.4cb82753.chunk.js": "/berkeley.github.io/static/js/2.4cb82753.chunk.js",
+    "static/js/2.4cb82753.chunk.js.map": "/berkeley.github.io/static/js/2.4cb82753.chunk.js.map",
     "index.html": "/berkeley.github.io/index.html",
-    "precache-manifest.bfb7c187cc6d93658339d56e9177d4cd.js": "/berkeley.github.io/precache-manifest.bfb7c187cc6d93658339d56e9177d4cd.js",
+    "precache-manifest.ab34edfa483601b92fdb6816ec393146.js": "/berkeley.github.io/precache-manifest.ab34edfa483601b92fdb6816ec393146.js",
     "service-worker.js": "/berkeley.github.io/service-worker.js",
     "static/css/2.7eb84643.chunk.css.map": "/berkeley.github.io/static/css/2.7eb84643.chunk.css.map",
     "static/css/main.1488e6d0.chunk.css.map": "/berkeley.github.io/static/css/main.1488e6d0.chunk.css.map",
-    "static/js/2.95927b62.chunk.js.LICENSE.txt": "/berkeley.github.io/static/js/2.95927b62.chunk.js.LICENSE.txt",
+    "static/js/2.4cb82753.chunk.js.LICENSE.txt": "/berkeley.github.io/static/js/2.4cb82753.chunk.js.LICENSE.txt",
     "static/media/earth.jpg": "/berkeley.github.io/static/media/earth.67af05e1.jpg",
     "static/media/f1.jpg": "/berkeley.github.io/static/media/f1.bd0e6c79.jpg",
     "static/media/f2.jpg": "/berkeley.github.io/static/media/f2.4c894ffd.jpg",
@@ -38,10 +38,10 @@
     "static/media/topB.png": "/berkeley.github.io/static/media/topB.15d287c3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.246cd762.js",
+    "static/js/runtime-main.60b62eec.js",
     "static/css/2.7eb84643.chunk.css",
-    "static/js/2.95927b62.chunk.js",
+    "static/js/2.4cb82753.chunk.js",
     "static/css/main.1488e6d0.chunk.css",
-    "static/js/main.7b2b29f4.chunk.js"
+    "static/js/main.066806ad.chunk.js"
   ]
 }
