@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a127e072ec5b1c5ecc7557f10119f16",
+    "revision": "2d168d3cacb81d5005cbf1024ab1bd36",
     "url": "/berkeley19.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css"
   },
   {
-    "revision": "35cec022adb0cf4ccd50",
+    "revision": "aba2a8065eb6698b221a",
     "url": "/berkeley19.github.io/static/css/main.3d786c89.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/js/2.de0ac4f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35cec022adb0cf4ccd50",
-    "url": "/berkeley19.github.io/static/js/main.fc092126.chunk.js"
+    "revision": "aba2a8065eb6698b221a",
+    "url": "/berkeley19.github.io/static/js/main.81693ac0.chunk.js"
   },
   {
     "revision": "98c3353364e1af2c0a31",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/media/aUnixPic.3695dfd8.jpg"
   },
   {
-    "revision": "67af05e12311bac06327b43ca31e166b",
-    "url": "/berkeley19.github.io/static/media/earth.67af05e1.jpg"
+    "revision": "e6b8bc5b72d27e72c748555dfa08546f",
+    "url": "/berkeley19.github.io/static/media/bkgrdCode.e6b8bc5b.jpg"
   },
   {
     "revision": "b14082e684354932355042b9350f2534",
