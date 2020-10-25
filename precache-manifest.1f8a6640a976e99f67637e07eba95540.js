@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d168d3cacb81d5005cbf1024ab1bd36",
+    "revision": "6cfea4a08f89e4de5671fea0d83f4b8e",
     "url": "/berkeley19.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css"
   },
   {
-    "revision": "aba2a8065eb6698b221a",
-    "url": "/berkeley19.github.io/static/css/main.3d786c89.chunk.css"
+    "revision": "8900f971e2f9e674a05b",
+    "url": "/berkeley19.github.io/static/css/main.baf2881b.chunk.css"
   },
   {
     "revision": "b1f1f50b64fe240e525d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/js/2.de0ac4f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aba2a8065eb6698b221a",
-    "url": "/berkeley19.github.io/static/js/main.81693ac0.chunk.js"
+    "revision": "8900f971e2f9e674a05b",
+    "url": "/berkeley19.github.io/static/js/main.181c5e32.chunk.js"
   },
   {
     "revision": "98c3353364e1af2c0a31",
