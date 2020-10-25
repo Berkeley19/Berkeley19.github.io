@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9742e5f3c5582d62c999f2639b851c5",
+    "revision": "8558546e51837724cb186db17bd33a8c",
     "url": "/berkeley19.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css"
   },
   {
-    "revision": "24261dbfc8984e454122",
+    "revision": "9186c0c9389f7320722d",
     "url": "/berkeley19.github.io/static/css/main.baf2881b.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/js/2.de0ac4f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24261dbfc8984e454122",
-    "url": "/berkeley19.github.io/static/js/main.a08bb549.chunk.js"
+    "revision": "9186c0c9389f7320722d",
+    "url": "/berkeley19.github.io/static/js/main.dc2f7aa8.chunk.js"
   },
   {
     "revision": "98c3353364e1af2c0a31",
     "url": "/berkeley19.github.io/static/js/runtime-main.bc554358.js"
-  },
-  {
-    "revision": "88bb0f915f8cfcfe333249234bb6a8f2",
-    "url": "/berkeley19.github.io/static/media/0001.88bb0f91.jpg"
   },
   {
     "revision": "eea3e0a56b804a8b51daefefaa2c5264",
@@ -40,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/media/aUnixPic.3695dfd8.jpg"
   },
   {
-    "revision": "e6b8bc5b72d27e72c748555dfa08546f",
-    "url": "/berkeley19.github.io/static/media/bkgrdCode.e6b8bc5b.jpg"
+    "revision": "530c19f7e07d182c750958609b2497d3",
+    "url": "/berkeley19.github.io/static/media/bkgrdCode.530c19f7.webp"
   },
   {
     "revision": "b14082e684354932355042b9350f2534",
@@ -114,10 +110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "621bd386841f74e0053cb8e67f8a0604",
     "url": "/berkeley19.github.io/static/media/ionicons.621bd386.svg"
-  },
-  {
-    "revision": "bd80794fddbffb4031fab537cc898680",
-    "url": "/berkeley19.github.io/static/media/myImage.bd80794f.png"
   },
   {
     "revision": "f70a0e384e88820b1930920b51675cdf",
