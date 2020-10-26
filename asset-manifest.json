@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/berkeley19.github.io/static/css/main.9e39957b.chunk.css",
-    "main.js": "/berkeley19.github.io/static/js/main.a5996a5c.chunk.js",
-    "main.js.map": "/berkeley19.github.io/static/js/main.a5996a5c.chunk.js.map",
+    "main.js": "/berkeley19.github.io/static/js/main.e8b44138.chunk.js",
+    "main.js.map": "/berkeley19.github.io/static/js/main.e8b44138.chunk.js.map",
     "runtime-main.js": "/berkeley19.github.io/static/js/runtime-main.bc554358.js",
     "runtime-main.js.map": "/berkeley19.github.io/static/js/runtime-main.bc554358.js.map",
     "static/css/2.7eb84643.chunk.css": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css",
     "static/js/2.de0ac4f9.chunk.js": "/berkeley19.github.io/static/js/2.de0ac4f9.chunk.js",
     "static/js/2.de0ac4f9.chunk.js.map": "/berkeley19.github.io/static/js/2.de0ac4f9.chunk.js.map",
     "index.html": "/berkeley19.github.io/index.html",
-    "precache-manifest.30e78a275d2358e330f9cbee9875afe2.js": "/berkeley19.github.io/precache-manifest.30e78a275d2358e330f9cbee9875afe2.js",
+    "precache-manifest.ab70397175c5eb028d339872d672f915.js": "/berkeley19.github.io/precache-manifest.ab70397175c5eb028d339872d672f915.js",
     "service-worker.js": "/berkeley19.github.io/service-worker.js",
     "static/css/2.7eb84643.chunk.css.map": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css.map",
     "static/css/main.9e39957b.chunk.css.map": "/berkeley19.github.io/static/css/main.9e39957b.chunk.css.map",
@@ -44,6 +44,6 @@
     "static/css/2.7eb84643.chunk.css",
     "static/js/2.de0ac4f9.chunk.js",
     "static/css/main.9e39957b.chunk.css",
-    "static/js/main.a5996a5c.chunk.js"
+    "static/js/main.e8b44138.chunk.js"
   ]
 }
