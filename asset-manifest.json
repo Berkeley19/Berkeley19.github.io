@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/berkeley19.github.io/static/css/main.b1f0936e.chunk.css",
-    "main.js": "/berkeley19.github.io/static/js/main.3a750c18.chunk.js",
-    "main.js.map": "/berkeley19.github.io/static/js/main.3a750c18.chunk.js.map",
+    "main.js": "/berkeley19.github.io/static/js/main.e0c5cc66.chunk.js",
+    "main.js.map": "/berkeley19.github.io/static/js/main.e0c5cc66.chunk.js.map",
     "runtime-main.js": "/berkeley19.github.io/static/js/runtime-main.bc554358.js",
     "runtime-main.js.map": "/berkeley19.github.io/static/js/runtime-main.bc554358.js.map",
     "static/css/2.7eb84643.chunk.css": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css",
-    "static/js/2.7e2a6dd9.chunk.js": "/berkeley19.github.io/static/js/2.7e2a6dd9.chunk.js",
-    "static/js/2.7e2a6dd9.chunk.js.map": "/berkeley19.github.io/static/js/2.7e2a6dd9.chunk.js.map",
+    "static/js/2.a80c9d53.chunk.js": "/berkeley19.github.io/static/js/2.a80c9d53.chunk.js",
+    "static/js/2.a80c9d53.chunk.js.map": "/berkeley19.github.io/static/js/2.a80c9d53.chunk.js.map",
     "index.html": "/berkeley19.github.io/index.html",
-    "precache-manifest.32f13f2abe0e7a6a025271787075ed99.js": "/berkeley19.github.io/precache-manifest.32f13f2abe0e7a6a025271787075ed99.js",
+    "precache-manifest.dd915929b7b48ca6535d7879e81dfea0.js": "/berkeley19.github.io/precache-manifest.dd915929b7b48ca6535d7879e81dfea0.js",
     "service-worker.js": "/berkeley19.github.io/service-worker.js",
     "static/css/2.7eb84643.chunk.css.map": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css.map",
     "static/css/main.b1f0936e.chunk.css.map": "/berkeley19.github.io/static/css/main.b1f0936e.chunk.css.map",
-    "static/js/2.7e2a6dd9.chunk.js.LICENSE.txt": "/berkeley19.github.io/static/js/2.7e2a6dd9.chunk.js.LICENSE.txt",
+    "static/js/2.a80c9d53.chunk.js.LICENSE.txt": "/berkeley19.github.io/static/js/2.a80c9d53.chunk.js.LICENSE.txt",
     "static/media/Berkeley_Vago_Hughes_Resume_CV.pdf": "/berkeley19.github.io/static/media/Berkeley_Vago_Hughes_Resume_CV.eea3e0a5.pdf",
     "static/media/aUnixPic.jpg": "/berkeley19.github.io/static/media/aUnixPic.3695dfd8.jpg",
     "static/media/bkgrdCode.webp": "/berkeley19.github.io/static/media/bkgrdCode.530c19f7.webp",
@@ -42,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.bc554358.js",
     "static/css/2.7eb84643.chunk.css",
-    "static/js/2.7e2a6dd9.chunk.js",
+    "static/js/2.a80c9d53.chunk.js",
     "static/css/main.b1f0936e.chunk.css",
-    "static/js/main.3a750c18.chunk.js"
+    "static/js/main.e0c5cc66.chunk.js"
   ]
 }
