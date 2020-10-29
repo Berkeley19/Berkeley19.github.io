@@ -1,11 +1,12 @@
 import React from "react";
-import imageOverlay from "../img/earth.jpg";
+import imageOverlay from "../img/bkgrdCode.webp";
+import Pdf from '../resume/Berkeley_Vago_Hughes_Resume_CV.pdf';
 
 class Contact extends React.Component {
   render() {
     return (
       <section
-        className="paralax-mf footer-paralax bg-image sect-mt4 route"
+        className="paralax-mf footer-paralax bg-image sect-mt4"
         style={{ backgroundImage: "url(" + imageOverlay + ")" }}
       >
         <div className="overlay-mf"></div>
@@ -104,10 +105,11 @@ class Contact extends React.Component {
                       <div className="more-info">
                         <p className="lead">
                           Whether you want to get in touch, talk about a project
-                          collaboration, or just say hi, I'd love to hear from
+                          collaboration or just to say hi, I'd love to hear from
                           you.
                           <br />
-                          Simply fill the from and send me an email.
+                          <br />
+                          Simply fill the form and send me an email.
                         </p>
                         {/* <!-- <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
@@ -138,6 +140,18 @@ class Contact extends React.Component {
                                 <i className="ion-social-linkedin"></i>
                               </span>
                             </a>
+                          </li>
+                          <li>
+                            <a
+                              href={Pdf}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-document-text"></i>
+                              </span>
+                            </a>
+                            
                           </li>
                         </ul>
                       </div>

@@ -81,9 +81,6 @@ a:hover {
   background-position: center center;
 }
 
-.overlay-mf {
-  background-color: #0078ff;
-}
 
 .overlay-mf {
   position: absolute;
@@ -131,6 +128,7 @@ a:hover {
   font-weight: 600;
   color: #1e1e1e;
   font-size: 1.1rem;
+  padding-top: 1.5rem;
 }
 
 /* Title A */
@@ -176,6 +174,7 @@ a:hover {
   bottom: -12px;
 }
 
+
 /* Box */
 
 .box-pl2 {
@@ -213,6 +212,40 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
+  background-color: #0078ff;
+  color: #fff;
+  box-shadow: 0 0 0 3px #cde1f8;
+  transition: all 500ms ease;
+}
+
+.socialsIntro {
+  padding: 1.5rem 0;
+  padding-left: 0;
+}
+
+.socialsIntro ul{
+  list-style: none;
+  margin-right: 30px;
+}
+
+.socialsIntro ul li {
+  display: inline-block;
+}
+
+.socialsIntro .ico-circle {
+  height: 40px;
+  width: 40px;
+  font-size: 1.7rem;
+  color: white;
+  background-color: black;
+  border-radius: 50%;
+  line-height: 1.4;
+  margin: 0 15px 0 0;
+  box-shadow: 0 0 0 3px #0078ff;
+  transition: all 500ms ease;
+}
+
+.socialsIntro .ico-circle:hover {
   background-color: #0078ff;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
@@ -704,7 +737,8 @@ PORTFOLIO
   background-color: #fff;
 }
 
-.work-box:hover img {
+
+.work-img:hover img {
   -webkit-transform: scale(1.3);
   transform: scale(1.3);
 }
@@ -731,15 +765,29 @@ PORTFOLIO
   color: #0078ff;
 }
 
-.work-content .w-like {
+.work-content .w-like{
   font-size: 2.5rem;
-  color: #0078ff;
+  color:black;
   float: right;
 }
+
+.work-content .w-like .inner{
+  font-size: 2.5rem;
+  color:black;
+  float: right;
+}
+
+.work-content .w-like .inner:hover{
+  font-size: 2.5rem;
+  color:#0078ff;
+  float: right;
+}
+
 
 .work-content .w-like a {
   color: #0078ff;
 }
+
 
 .work-content .w-like .num-like {
   font-size: .7rem;
@@ -748,6 +796,7 @@ PORTFOLIO
 .w-title {
   font-size: 1.2rem;
 }
+
 
 /*
 TESTIMONIALS

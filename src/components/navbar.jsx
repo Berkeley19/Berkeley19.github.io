@@ -1,12 +1,8 @@
 import React from "react";
 import $ from "jquery";
 
-//{import logo1 from "../img/male1.png";
-//import logo2 from "../img/male.png";}
 
-
-import logo2 from "../img/topB.png";
-//import logo1 from "../img/top.png";
+import logo2 from "../img/finalOutlinepp.png";
 import logo1 from "../img/ppCnew.png";
 
 class Navbar extends React.Component {
@@ -46,12 +42,8 @@ class Navbar extends React.Component {
           .classList.remove("navbar-trans");
         this.setState({ logo: logo2 });
       } else {
-        document
-          .querySelector(".navbar-expand-md")
-          .classList.add("navbar-trans");
-        document
-          .querySelector(".navbar-expand-md")
-          .classList.remove("navbar-reduce");
+        document.querySelector(".navbar-expand-md").classList.add("navbar-trans");
+        document.querySelector(".navbar-expand-md").classList.remove("navbar-reduce");
         this.setState({ logo: logo1 });
       }
     });
@@ -95,7 +87,7 @@ class Navbar extends React.Component {
             <img
               src={this.state.logo}
               alt="logo"
-              style={{ maxWidth: "100px" }}
+              style={{ maxWidth: "70px" }}
             />
           </a>}
           <button

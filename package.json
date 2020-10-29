@@ -2,7 +2,7 @@
   "name": "berkeley.github.io",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://berkeley19.github.io/berkeley.github.io/",
+  "homepage": "https://Berkeley19.github.io/berkeley19.github.io/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.5.1",
