@@ -1,7 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-import Pdf from '../resume/Berkeley_Vago_Hughes_Resume_CV.pdf';
+import Pdf from '../resume/Berkeley_Vago_Hughes_CV_Resume.pdf';
 
 class Intro extends React.Component {
   render() {

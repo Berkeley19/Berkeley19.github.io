@@ -1,6 +1,6 @@
 import React from "react";
 import imageOverlay from "../img/bkgrdCode.webp";
-import Pdf from '../resume/Berkeley_Vago_Hughes_Resume_CV.pdf';
+import Pdf from '../resume/Berkeley_Vago_Hughes_CV_Resume.pdf';
 
 class Contact extends React.Component {
   render() {
