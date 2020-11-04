@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56720f7552b7b0e076aa5c2ceaef0f30",
+    "revision": "8b9b492a7d0c6fe160c4f3f67fe9579c",
     "url": "/berkeley19.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/css/2.7eb84643.chunk.css"
   },
   {
-    "revision": "69d53611db05ef8c95c1",
+    "revision": "612abd93fa486751b23e",
     "url": "/berkeley19.github.io/static/css/main.b1f0936e.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berkeley19.github.io/static/js/2.a80c9d53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69d53611db05ef8c95c1",
-    "url": "/berkeley19.github.io/static/js/main.e0c5cc66.chunk.js"
+    "revision": "612abd93fa486751b23e",
+    "url": "/berkeley19.github.io/static/js/main.1ac72cc4.chunk.js"
   },
   {
     "revision": "98c3353364e1af2c0a31",
     "url": "/berkeley19.github.io/static/js/runtime-main.bc554358.js"
   },
   {
-    "revision": "eea3e0a56b804a8b51daefefaa2c5264",
-    "url": "/berkeley19.github.io/static/media/Berkeley_Vago_Hughes_Resume_CV.eea3e0a5.pdf"
+    "revision": "c2c80f4dea517e9dd836a9caee5a449b",
+    "url": "/berkeley19.github.io/static/media/Berkeley_Vago_Hughes_Resume_CV.c2c80f4d.pdf"
   },
   {
     "revision": "3695dfd885eee889848b9ed14104bcc1",
