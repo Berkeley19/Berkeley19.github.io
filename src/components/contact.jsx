@@ -27,7 +27,7 @@ class Contact extends React.Component {
                           className="contactForm"
                         >
                           <div id="sendmessage">
-                            Your message has been sent. Thank you!
+                            Your message been sent. Thank you!
                           </div>
                           <div id="errormessage"></div>
                           <div className="row">
