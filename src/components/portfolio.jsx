@@ -145,7 +145,7 @@ class Portfolio extends React.Component {
                 <div className="work-content">
                   <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Native TODO application</h2>
+                        <h2 className="w-title"> TODO application</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             Flutter SQFLite iOS Android
