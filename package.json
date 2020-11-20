@@ -40,6 +40,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "@types/underscore": "^1.10.24",
+    "gh-pages": "^2.2.0",
+    "underscore": "^1.11.0"
   }
 }
