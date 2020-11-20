@@ -86,7 +86,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Health and Fitness Web Application</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Python Mama SQLite 
+                            Python Django SQLite 
                           </span>{" "}
                         </div>
                       </div>
