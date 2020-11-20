@@ -83,7 +83,7 @@ class Portfolio extends React.Component {
                 <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Health and  Web Application</h2>
+                        <h2 className="w-title">Health and Fitness Web Application</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             Python Django SQLite 
